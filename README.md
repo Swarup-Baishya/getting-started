@@ -1,4 +1,4 @@
 # Getting-started
-my first repository
+My first repository
 <br>
 Author - Swarup Baishya
